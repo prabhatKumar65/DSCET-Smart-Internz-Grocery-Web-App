@@ -8,7 +8,7 @@ Welcome to the **Grocery Webapp** project! This repository contains a full-stack
 
 The **Technical Architecture** of the Grocery Webapp is designed to support efficient communication and data handling across components.
 
-![Technical Architecture](path_to_image)
+![Technical Architecture](https://github.com/Vinaykumarmahato/DSCET-Smart-Internz-Grocery-Web-App/blob/main/project%20architecture.jpg)
 
 - **Frontend**: Built using React.js to provide a responsive, dynamic interface.
 - **Backend**: Powered by Node.js and Express.js, with MongoDB as the database for product and user information storage.
