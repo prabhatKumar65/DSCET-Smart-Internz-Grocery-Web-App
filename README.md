@@ -29,7 +29,7 @@ Ensure you have the following installed on your system:
 To clone the repository and set it up locally:
 
 
-git clone https://github.com/yourusername/Grocery-Webapp.git
+git clone https://github.com/Vinaykumarmahato/Grocery-Webapp.git
 cd Grocery-Webapp
 
 
