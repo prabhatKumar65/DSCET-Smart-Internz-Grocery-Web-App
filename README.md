@@ -105,9 +105,20 @@ This project leverages **frontend-backend integration** to ensure smooth communi
 - **Frontend-Backend Communication**: RESTful APIs allow the frontend to interact with backend services.
 - **Real-time Data Sync**: Updates to the product catalog, orders, and user data are synchronized in real time.
 
+
+## 👥 Contributors
+
+A huge thanks to the amazing team behind **Project Name**! 🙌
+
+| Name           | GitHub Username         | Role                |
+|----------------|-------------------------|---------------------|
+| **Contributor 1** | @username1            | Project Lead        |
+| **Contributor 2** | @username2            | Backend Developer   |
+| **Contributor 3** | @username3            | Frontend Developer  |
+| **Contributor 4** | @username4            | DevOps Specialist   |
+| **Contributor 5** | @username5            | UI/UX Designer      |
+
 ---
 
 **Happy Shopping!** 🛒 Thank you for exploring the Grocery Webapp project!
 ```
-
-This Markdown file is formatted to be visually engaging for GitHub and includes all the specified content in one place. Just update any placeholders (like the repository URL) before uploading to GitHub.
