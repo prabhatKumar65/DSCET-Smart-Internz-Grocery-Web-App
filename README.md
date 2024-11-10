@@ -29,7 +29,8 @@ Ensure you have the following installed on your system:
 To clone the repository and set it up locally:
 
 
-git clone https://github.com/Vinaykumarmahato/Grocery-Webapp.git
+git clone git@github.com:Vinaykumarmahato/DSCET-Smart-Internz-Grocery-Web-App.git
+
 cd Grocery-Webapp
 
 
