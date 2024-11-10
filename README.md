@@ -1,7 +1,18 @@
-
 # 🛒 Grocery Webapp
 
 Welcome to the **Grocery Webapp** project! This repository contains a full-stack grocery shopping application designed to deliver a smooth online shopping experience. Built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), this app provides features for both shoppers and administrators.
+
+---
+
+## 🏗️ Architecture
+
+The **Technical Architecture** of the Grocery Webapp is designed to support efficient communication and data handling across components.
+
+![Technical Architecture](path_to_image)
+
+- **Frontend**: Built using React.js to provide a responsive, dynamic interface.
+- **Backend**: Powered by Node.js and Express.js, with MongoDB as the database for product and user information storage.
+- **Integration**: RESTful APIs connect frontend and backend, enabling secure and efficient data handling.
 
 ---
 
@@ -17,12 +28,10 @@ Ensure you have the following installed on your system:
 ## 📥 Git Repository Cloning
 To clone the repository and set it up locally:
 
-```bash
+
 git clone https://github.com/yourusername/Grocery-Webapp.git
 cd Grocery-Webapp
-```
 
----
 
 ## 🔑 Role-Based Access
 Our Grocery Webapp provides **role-based access** to differentiate between user permissions.
