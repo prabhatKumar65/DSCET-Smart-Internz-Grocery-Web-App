@@ -13,6 +13,7 @@ const expressFileUpload = require("express-fileupload");
 const jwt = require("jsonwebtoken");
 const sendError = require("./utils/sendError");
 
+
 // Load .env file regardless of environment
 require("dotenv").config({ path: path.resolve(__dirname, ".env") });
 
