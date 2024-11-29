@@ -99,6 +99,7 @@ const App = () => {
               path="/admin/update/category/:categoryId"
               element={<UpdateCategory />}
             />
+                
 
             {/* Orders Route */}
             <Route path="/admin/view/orders" element={<OrderList />} />
