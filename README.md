@@ -113,10 +113,10 @@ A huge thanks to the amazing team behind **Project Name**! 🙌
 
 | Name           | GitHub Username         | Role                |
 |----------------|-------------------------|---------------------|
-| **Contributor 1** | @Vinaykumarmahato            | Project Lead        |
-| **Contributor 2** | @lakshmanroy            | Backend Developer   |
-| **Contributor 3** | @Arjunhacked0            | Frontend Developer  |
-| **Contributor 4** | @prabhatKumar65            | DevOps Specialist   |
+| **Contributor 1** | @Vinaykumarmahato            | Project Lead |
+| **Contributor 2** | @lakshmanroy            | Backend Developer |
+| **Contributor 3** | @Arjunhacked0            | Frontend Developer|
+| **Contributor 4** | @prabhatKumar65            | DevOps Specialist |
 
 
 ---
