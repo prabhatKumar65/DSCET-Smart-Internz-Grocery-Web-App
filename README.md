@@ -1,10 +1,10 @@
-# 🛒 Grocery Webapp
+# Grocery Webapp
 
 Welcome to the **Grocery Webapp** project! This repository contains a full-stack grocery shopping application designed to deliver a smooth online shopping experience. Built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js), this app provides features for both shoppers and administrators.
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 The **Technical Architecture** of the Grocery Webapp is designed to support efficient communication and data handling across components.
 
