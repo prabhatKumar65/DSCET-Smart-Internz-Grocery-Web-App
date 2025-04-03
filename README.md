@@ -1,4 +1,4 @@
-# Grocery Webapp
+# Grocery Web app
 
 Welcome to the **Grocery Webapp**! This full-stack MERN (MongoDB, Express.js, React.js, Node.js) application provides a seamless online grocery shopping experience with role-based access control for administrators and shoppers.
 
